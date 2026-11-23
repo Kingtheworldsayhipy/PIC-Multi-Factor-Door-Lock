@@ -1,0 +1,14 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+#include <16F877A.h>
+#fuses HS,NOWDT,NOLVP,PUT,BROWNOUT
+#use delay(clock=20000000)
+#define PASSWORD_LENGTH 6
+#define MAX_WRONG_ATTEMPTS 3
+#define LOCKOUT_SECONDS 30
+#define DOOR_OPEN_SECONDS 3
+#define SERVO_PIN PIN_C2
+#define BUZZER_PIN PIN_C1
+#define MORSE_BUTTON PIN_A0
+#define DEFAULT_PASSWORD "123456"
+#endif
