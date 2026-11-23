@@ -166,5 +166,3 @@ _Add photos, a wiring diagram, a Proteus screenshot, or a demo video link here._
 
 ---
 
-## 📄 License
-Released under the [MIT License](LICENSE).
