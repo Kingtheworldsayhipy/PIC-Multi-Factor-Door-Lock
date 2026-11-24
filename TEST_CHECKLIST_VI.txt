@@ -1,0 +1,15 @@
+CHECKLIST
+[ ] Nguon 5V va 3.3V dung, GND chung.
+[ ] MCLR pull-up; PIC nap duoc qua ICSP.
+[ ] LCD dung dia chi va hien thi ro.
+[ ] Keypad doc dung phim, mat khau mac dinh 123456.
+[ ] Doi mat khau, EEPROM giu gia tri sau reset.
+[ ] RFID doc UID that; hai the duoc phep, hai the tu choi.
+[ ] Morse nhap 1234; hieu chinh nguong ngan/dai.
+[ ] Bluetooth nhan AUTH:123456 + LF; thu ca lenh sai.
+[ ] Sai 3 lan khoa ca he thong 30 giay.
+[ ] Het khoa, he thong tro lai trang thai cho.
+[ ] Dung mo servo 3 giay; kiem tra goc va huong servo.
+[ ] Buzzer bao dung, servo khong lam sut ap/reset PIC.
+
+Neu mot module chua dat, test rieng truoc khi ghep ca he thong.
