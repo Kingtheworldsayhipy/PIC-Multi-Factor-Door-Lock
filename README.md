@@ -38,7 +38,7 @@ A **multi-method smart door lock** built on the **PIC16F877A** microcontroller. 
 
 ---
 
-# 🗂️ Project Structure
+## 🗂️ Project Structure
 
 ```
 .
