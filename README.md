@@ -153,7 +153,8 @@ AUTH:123456
 
 ## 📸 Demo
 
-_Add photos, a wiring diagram, a Proteus screenshot, or a demo video link here._
+<img width="847" height="635" alt="image" src="https://github.com/user-attachments/assets/f6562849-0970-45e0-9c44-e21b3ad955d4" />
+
 
 ---
 
